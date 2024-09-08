@@ -1,5 +1,5 @@
 ### Dudu Bar & Wine ##
-## Employee Get Start**
+## Employee Get Start ## 
 
 This is simple landing page for new employee's joining the team
 It will show a step-by-step guide to ensure all the necessary forms
@@ -23,7 +23,8 @@ I just started working on this project.
 1. **Clone the repository**
 
     ```bash
-    git clone # Project Name
+    git clone https://github.com/dudubarwine/employee-get-start.git
+    ```
 
 A brief description of your project. This should explain the goal of the project and what you intend to build.
 
