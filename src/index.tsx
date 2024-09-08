@@ -4,6 +4,7 @@
  * @author Ilia Kamilov <iliakmlv@gmail.com>
  * @date 08/09/2024
  * @license MIT
+ * @version 1.0.0
  */
 import React from 'react';
 import ReactDOM from 'react-dom';

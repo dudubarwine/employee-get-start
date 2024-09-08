@@ -4,16 +4,15 @@
  * @author Ilia Kamilov <iliakmlv@gmail.com>
  * @date 08/09/2024
  * @license MIT
+ * @version 1.0.0
  */
 
 import React from 'react';
 
-// const LazyLoad = React.lazy(() => import('./components/LazyLoad'));
-
 const App: React.FC = () => {
     return (
         <div>
-            Main Page
+
         </div>
     );
 }

@@ -20,31 +20,8 @@ I just started working on this project.
 
 ## Installation
 
-1. **Clone the repository**
-
-    ```bash
-    git clone https://github.com/dudubarwine/employee-get-start.git
-    ```
-
-A brief description of your project. This should explain the goal of the project and what you intend to build.
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Features](#future-features)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Project Overview
-
-This project is in development stage.
-
-## Installation
-
 Follow these steps to set up the project on your local machine. 
-Make sure you have installed [node] and [npm] on your system.
+Make sure you have installed `node` and `npm` on your system.
 
 1. **Clone the Repository**:
 
