@@ -7,13 +7,16 @@
  * @version 1.0.0
  */
 
+import { Container, Typography } from '@mui/material';
 import React from 'react';
 
 const App: React.FC = () => {
     return (
-        <div>
-
-        </div>
+        <Container
+            maxWidth="lg"
+        >
+            <Typography variant='h6' component="h1">ברוכים הבאים!</Typography>
+        </Container>
     );
 }
 
