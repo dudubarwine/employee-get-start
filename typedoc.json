@@ -1,0 +1,12 @@
+{
+    "out": "docs",
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "src/**/*.test.ts",
+        "src/**/*.spec.ts"
+    ],
+    "excludePrivate": true,
+    "excludeProtected": true
+}
